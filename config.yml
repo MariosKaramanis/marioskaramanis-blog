@@ -1,0 +1,120 @@
+﻿baseURL: "https://marioskaramanis.github.io/"
+title: Marios Karamanis
+paginate: 8
+theme: hugo-PaperMod
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+ 
+languages:
+  en:
+    languageName: "English"
+    weight: 2
+    menu:
+      main:
+        - name: 📌 Archives
+          url: /archives/
+          weight: 2
+        - name: 👨‍💻 About me
+          url: /personal_info/aboutMe/
+          weight: 2
+        - name: ✉️ Contact me
+          url: /personal_info/contactMe/
+          weight: 2
+
+  greek:
+    languageName: "Greek"
+    weight: 2
+    title: "Μάριος Καραμάνης"
+    profileMode:
+      enabled: true
+      title: Μάριος Καραμάνης
+      imageUrl: "/images/marios_stack.jpg"
+      imageTitle: my image
+      imageWidth: 256
+      imageHeight: 256
+      subtitle: "Turning ☕ into code and routine tasks into automated workflows"
+      buttons:
+        - name: Google Apps Script
+          url: google-apps-script
+        - name: Tags
+          url: tags
+
+params:
+  env: production
+  description: "https://marioskaramanis.github.io/"
+  author: Me
+  ShowReadingTime: true
+  defaultTheme: auto
+  ShowShareButtons: true
+  displayFullLangName: true
+  images: "/images"
+  # assets:
+  #   favicon: '<path / external url>'
+
+  profileMode:
+    enabled: true
+    title: "Marios Karamanis" 
+    subtitle: "Turning ☕ into code and routine tasks into automated workflows"
+    imageUrl: "images/marios_stack.jpg"
+    imageTitle: my image
+    imageWidth: 256
+    imageHeight: 256
+    
+    buttons:
+      - name: Google Apps Script
+        url: google-apps-script
+      - name: Tags
+        url: tags      
+
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: >
+      Welcome to my personal webpage.
+
+      - In this page you can find my research work.
+
+  socialIcons:
+    - name: stackoverflow
+      url: "https://stackoverflow.com/users/11225291/marios"
+    - name: linkedin
+      url: "#"
+    - name: github
+      url: "https://github.com/MariosKaramanis"
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+
+  instagram:
+    disabled: false
+    simple: true
+
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true

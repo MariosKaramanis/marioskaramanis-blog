@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://marioskaramanis.github.io/greek/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://marioskaramanis.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="greek"
+                href="https://marioskaramanis.github.io/greek/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://marioskaramanis.github.io/greek/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://marioskaramanis.github.io/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="greek"
+                href="https://marioskaramanis.github.io/greek/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://marioskaramanis.github.io/greek/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://marioskaramanis.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="greek"
+                href="https://marioskaramanis.github.io/greek/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://marioskaramanis.github.io/greek/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://marioskaramanis.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="greek"
+                href="https://marioskaramanis.github.io/greek/"
+                />
+  </url>
+  
+</urlset>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>trigger on Marios Karamanis</title>
+    <link>https://marioskaramanis.github.io/tags/trigger/</link>
+    <description>Recent content in trigger on Marios Karamanis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://marioskaramanis.github.io/tags/trigger/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basic onEdit(e) application - utilize the event object</title>
+      <link>https://marioskaramanis.github.io/google-apps-script/basic_onedit/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://marioskaramanis.github.io/google-apps-script/basic_onedit/</guid>
+      <description>This article demonstrates the basic use of an onEdit(e) along with the use of the event object. The latter contains useful information regarding the on edit interaction with the sheet.
+Simple onEdit(e) function function onEdit(e) { const as = e.source.getActiveSheet(); // get active sheet  const row = e.range.getRow(); // get edited row  const col = e.range.getColumn(); // get edited column  /*** check if: 1) the name of the active sheet matches the desired sheet name.</description>
+    </item>
+    
+  </channel>
+</rss>
