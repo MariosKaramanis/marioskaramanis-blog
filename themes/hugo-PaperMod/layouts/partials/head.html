@@ -21,7 +21,7 @@
 <meta name="google-site-verification" content="{{ .Site.Params.analytics.google.SiteVerificationTag }}" />
 {{- end}}
 <!-- Styles -->
-{{- $stylesheet := (resources.Match "css/*.css") | resources.Concat "marioskaramanis.github.io/assets/css/stylesheet.css" | minify | fingerprint -}}
+{{- $stylesheet := (resources.Match "css/*.css") | resources.Concat "assets/css/stylesheet.css" | minify | fingerprint -}}
 <link href="{{ $stylesheet.Permalink }}" integrity="" rel="preload stylesheet"
     as="style">
 <!-- Favicons -->
