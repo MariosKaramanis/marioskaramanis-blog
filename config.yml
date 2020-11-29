@@ -48,6 +48,7 @@ languages:
         - name: Tags
           url: tags
 
+
 params:
   env: production
   description: "https://marioskaramanis.github.io/"
@@ -89,6 +90,7 @@ params:
       url: "#"
     - name: github
       url: "https://github.com/MariosKaramanis"
+
 
 taxonomies:
   category: categories

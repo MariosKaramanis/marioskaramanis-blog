@@ -4,6 +4,7 @@ title: "Basic onEdit(e) application - utilize the event object"
 date: "2020-11-26"
 description: "Guide to a very simple onEdit trigger function"
 tags: ["google-apps-script", "onEdit", "trigger"]
+ShowToc: true
 ---
 
 This article demonstrates the basic use of an ```onEdit(e)```
