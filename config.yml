@@ -42,8 +42,8 @@ languages:
   #     title: Μάριος Καραμάνης
   #     imageUrl: "/images/marios_stack.jpg"
   #     imageTitle: my image
-  #     imageWidth: 500
-  #     imageHeight: 500
+  #     imageWidth: 300
+  #     imageHeight: 300
   #     subtitle: "Turning ☕ into code and routine tasks into automated workflows"
   #     buttons:
   #       - name: My Projects
@@ -69,8 +69,8 @@ params:
     subtitle: "Turning ☕ into code and routine tasks into automated workflows"
     imageUrl: "images/marios_stack.jpg"
     imageTitle: my image
-    imageWidth: 512
-    imageHeight: 512
+    imageWidth: 300
+    imageHeight: 300
 
     buttons:
         - name: Google Apps Script
