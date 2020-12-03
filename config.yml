@@ -22,31 +22,33 @@ languages:
       main:
         - name: 📌 Archives
           url: /archives/
-          weight: 2
+          weight: 3
         - name: 👨‍💻 About me
           url: /personal_info/aboutMe/
-          weight: 2
-        - name: ✉️ Contact me
+          weight: 1
+        - name: 📧 Contact me
           url: /personal_info/contactMe/
           weight: 2
-
-  greek:
-    languageName: "Greek"
-    weight: 2
-    title: "Μάριος Καραμάνης"
-    profileMode:
-      enabled: true
-      title: Μάριος Καραμάνης
-      imageUrl: "/images/marios_stack.jpg"
-      imageTitle: my image
-      imageWidth: 256
-      imageHeight: 256
-      subtitle: "Turning ☕ into code and routine tasks into automated workflows"
-      buttons:
-        - name: Google Apps Script
-          url: google-apps-script
-        - name: Tags
+        - name: 🏷️ Tags
           url: tags
+          weight: 4
+
+  # greek:
+  #   languageName: "Greek"
+  #   weight: 2
+  #   title: "Μάριος Καραμάνης"
+  #   profileMode:
+  #     enabled: true
+  #     title: Μάριος Καραμάνης
+  #     imageUrl: "/images/marios_stack.jpg"
+  #     imageTitle: my image
+  #     imageWidth: 500
+  #     imageHeight: 500
+  #     subtitle: "Turning ☕ into code and routine tasks into automated workflows"
+  #     buttons:
+  #       - name: My Projects
+  #         url: projects
+
 
 
 params:
@@ -67,14 +69,15 @@ params:
     subtitle: "Turning ☕ into code and routine tasks into automated workflows"
     imageUrl: "images/marios_stack.jpg"
     imageTitle: my image
-    imageWidth: 256
-    imageHeight: 256
-    
+    imageWidth: 512
+    imageHeight: 512
+
     buttons:
-      - name: Google Apps Script
-        url: google-apps-script
-      - name: Tags
-        url: tags      
+        - name: Google Apps Script
+          url: google-apps-script
+        # - name: My Projects
+        #   url: projects
+
 
   homeInfoParams:
     Title: "Hi there \U0001F44B"

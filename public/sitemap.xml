@@ -1,16 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <sitemap>
-    <loc>https://marioskaramanis.github.io/en/sitemap.xml</loc>
-    
-      <lastmod>2020-11-26T00:00:00+00:00</lastmod>
-    
-  </sitemap>
+  <url>
+    <loc>https://marioskaramanis.github.io/google-apps-script/basic_onedit/</loc>
+    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+  </url>
   
-  <sitemap>
-    <loc>https://marioskaramanis.github.io/greek/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>https://marioskaramanis.github.io/tags/google-apps-script/</loc>
+    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+  </url>
   
-</sitemapindex>
+  <url>
+    <loc>https://marioskaramanis.github.io/google-apps-script/</loc>
+    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marioskaramanis.github.io/</loc>
+    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marioskaramanis.github.io/tags/onedit/</loc>
+    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marioskaramanis.github.io/tags/</loc>
+    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marioskaramanis.github.io/tags/trigger/</loc>
+    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marioskaramanis.github.io/personal_info/aboutme/</loc>
+  </url>
+  
+  <url>
+    <loc>https://marioskaramanis.github.io/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://marioskaramanis.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://marioskaramanis.github.io/personal_info/contactme/</loc>
+  </url>
+  
+  <url>
+    <loc>https://marioskaramanis.github.io/personal_info/</loc>
+  </url>
+  
+  <url>
+    <loc>https://marioskaramanis.github.io/series/</loc>
+  </url>
+  
+</urlset>
