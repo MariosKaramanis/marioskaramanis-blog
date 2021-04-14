@@ -67,10 +67,10 @@ params:
     enabled: true
     title: "Marios Karamanis" 
     subtitle: "Business/Data Analyst and Programming enthousiast"
-    imageUrl: "images/marios_stack.jpg"
+    imageUrl: "images/marios_stack.png"
     imageTitle: my image
-    imageWidth: 300
-    imageHeight: 300
+    imageWidth: 200
+    imageHeight: 200
 
     buttons:
         - name: Google Apps Script
