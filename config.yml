@@ -44,7 +44,7 @@ languages:
   #     imageTitle: my image
   #     imageWidth: 300
   #     imageHeight: 300
-  #     subtitle: "Turning ☕ into code and routine tasks into automated workflows"
+  #     subtitle: "Business/Data Analyst and Programming enthousiast"
   #     buttons:
   #       - name: My Projects
   #         url: projects
@@ -66,7 +66,7 @@ params:
   profileMode:
     enabled: true
     title: "Marios Karamanis" 
-    subtitle: "Turning ☕ into code and routine tasks into automated workflows"
+    subtitle: "Business/Data Analyst and Programming enthousiast"
     imageUrl: "images/marios_stack.jpg"
     imageTitle: my image
     imageWidth: 300
@@ -87,8 +87,8 @@ params:
       - In this page you can find my research work.
 
   socialIcons:
-    - name: stackoverflow
-      url: "https://stackoverflow.com/users/11225291/marios"
+    # - name: stackoverflow
+    #  url: "https://stackoverflow.com/users/11225291/marios"
     - name: linkedin
       url: "#"
     - name: github
